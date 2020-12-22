@@ -1,0 +1,115 @@
+.container  {
+  margin: 2%;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+#name{
+  font-size: 4rem;
+  padding-left:7%;
+  background: rgb(0, 0, 0);
+  color: aliceblue;
+}
+.navigation{
+  background:rgba(142 103 103);
+   height: 40px;
+   width: 100%;
+   margin-bottom:2%;
+}
+.nav{
+  color: aliceblue;
+  font-size: 1.4rem;
+  padding: 3%;
+  padding-left: 10%;
+}
+a{
+  text-align: center;
+}
+hr{
+border-width: 2px;
+}
+.left{
+  background: rgb(206, 166, 166);
+  height:1500px ;
+  width:32%;
+  display: inline-block;
+}
+.left img{
+  width:45%;
+  padding-left: 22%;
+}
+.left h2{
+  padding-left: 16%;
+}
+.left h1{
+  padding-left:16%;
+}
+.aboutme{
+  padding-left: 2%;
+}
+.ask{
+  margin-top:12%;
+  margin-bottom: 12%;
+  border: 2px solid black;
+}
+.ask p{
+  margin-left: 2%;
+}
+#email{
+  margin-left:3% ;
+}
+#text{
+  margin-left:18%;
+}
+#submit{
+  margin-left:40% ;
+}
+.right{
+  background: rgb(212, 209, 209);
+  height: 1500px;
+  width:68%;
+  display: inline-block;
+  float: right;
+}
+#contact{
+  color:rgb(48, 7, 87);
+  padding-left: 7%;
+}
+.right h1{
+  margin: 1%;
+}
+.right h4{
+  margin: 1%;
+}
+.right h2{
+  margin:1%;
+}
+#main {
+  font-size:1.2rem;
+}
+.right p{
+  margin: 2%;
+  font-size:1rem;
+  line-height: 1.7rem;
+}
+
+.soft{
+  display: inline-block;
+  width:40%;
+  padding-left: 4%;
+  height:230px;
+}
+.hard{
+  display: inline-block;
+  float: right;
+  width: 40%;
+  padding-left: 15%;
+  height:230px;
+}
+.footer{
+  height:50px ;
+  background: rgb(147, 146, 148);
+
+}
+
+
+
+ 
